@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\commons\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,155,211,262,307,355,407,450",
-                        "endColumns": "44,54,55,50,44,47,51,42,41",
-                        "endOffsets": "95,150,206,257,302,350,402,445,487"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,21,22,23,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,656,711,1326,1377,1422,1470,1522,1565",
-                        "endColumns": "44,54,55,50,44,47,51,42,41",
-                        "endOffsets": "651,706,762,1372,1417,1465,1517,1560,1602"
-                    }
-                },
                 {
                     "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
@@ -47,30 +30,30 @@
                         "startOffsets": "55,124,193,263,337,413,472,543",
                         "endColumns": "68,68,69,73,75,58,70,67",
                         "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\commons\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,155,211,262,307,355,407,450",
+                        "endColumns": "44,54,55,50,44,47,51,42,41",
+                        "endOffsets": "95,150,206,257,302,350,402,445,487"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,656,711,1326,1377,1422,1470,1522,1565",
+                        "endColumns": "44,54,55,50,44,47,51,42,41",
+                        "endOffsets": "651,706,762,1372,1417,1465,1517,1560,1602"
                     }
                 }
             ]
         },
         {
-            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\commons\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,155,211,262,307,355,407,450",
-                        "endColumns": "44,54,55,50,44,47,51,42,41",
-                        "endOffsets": "95,150,206,257,302,350,402,445,487"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,21,22,23,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,656,711,1326,1377,1422,1470,1522,1565",
-                        "endColumns": "44,54,55,50,44,47,51,42,41",
-                        "endOffsets": "651,706,762,1372,1417,1465,1517,1560,1602"
-                    }
-                },
                 {
                     "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
@@ -98,6 +81,23 @@
                         "startOffsets": "55,124,193,263,337,413,472,543",
                         "endColumns": "68,68,69,73,75,58,70,67",
                         "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\commons\\build\\intermediates\\bundles\\debug\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,155,211,262,307,355,407,450",
+                        "endColumns": "44,54,55,50,44,47,51,42,41",
+                        "endOffsets": "95,150,206,257,302,350,402,445,487"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,656,711,1326,1377,1422,1470,1522,1565",
+                        "endColumns": "44,54,55,50,44,47,51,42,41",
+                        "endOffsets": "651,706,762,1372,1417,1465,1517,1560,1602"
                     }
                 }
             ]

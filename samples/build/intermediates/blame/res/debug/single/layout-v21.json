@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
         "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

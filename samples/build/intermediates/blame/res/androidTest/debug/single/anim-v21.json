@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\raise.xml",
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\raise.xml",
         "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-multiselect-0.2.aar\\71cb79c67927267273078fa2f81c303b\\res\\anim-v21\\raise.xml"
     },
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\j_ces\\Desktop\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

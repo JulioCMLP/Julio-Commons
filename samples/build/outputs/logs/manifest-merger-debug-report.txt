@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:design:27.0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\822caafff3671dec37254f48f1c31c09\AndroidManifest.xml:17:1-22:12
 MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\b886b19b2bae0bafb5e447b637fa5757\AndroidManifest.xml:2:1-12:12
 MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\71cb79c67927267273078fa2f81c303b\AndroidManifest.xml:2:1-11:12
@@ -24,31 +24,31 @@ MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\j_ces\.gr
 MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\35499ff9df3e1d7d0f2706796980220f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\68c67195c5a4bbdc611fa36a29ba9c4e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a8da805f53c7ff9a5ea2702924a5765d\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:3:11-58
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:3:11-50
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:5:5-80
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:5:22-78
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:7:5-27:19
-MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20:19
-MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20:19
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20:19
 MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\71cb79c67927267273078fa2f81c303b\AndroidManifest.xml:9:5-20
 MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\71cb79c67927267273078fa2f81c303b\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\f5c86486c145ad8f907212ed2059333d\AndroidManifest.xml:11:5-20
@@ -56,49 +56,49 @@ MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\j_ces\.gradle\cache
 MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\aced40d2e448ba0fe8bffccbcdaf6a50\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\aced40d2e448ba0fe8bffccbcdaf6a50\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:11:9-47
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:11:9-47
 	android:icon
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:10:9-48
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:10:9-48
 	android:allowBackup
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:13:9-40
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:8:9-28
-activity#com.simplemobiletools.commons.samples.activities.MainActivity
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:14:9-20:20
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:8:9-57
+activity#com.julioapps.commons.samples.activities.MainActivity
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:14:19-58
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:14:19-87
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:16:17-68
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:16:17-68
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:18:17-76
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:18:17-76
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:18:27-74
 activity#com.julioapps.commons.activities.AboutActivity
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:21:9-22:76
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:21:9-22:76
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:22:13-74
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:22:13-74
 activity#com.julioapps.commons.activities.LicenseActivity
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:23:9-24:78
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:23:9-24:78
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:24:13-76
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:24:13-76
 activity#com.julioapps.commons.activities.CustomizationActivity
-ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:25:9-26:84
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:25:9-26:84
 	android:name
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml:26:13-82
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml:26:13-82
 uses-sdk
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:27.0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\822caafff3671dec37254f48f1c31c09\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\822caafff3671dec37254f48f1c31c09\AndroidManifest.xml:20:5-44
 MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\b886b19b2bae0bafb5e447b637fa5757\AndroidManifest.xml:8:5-10:41
@@ -137,32 +137,32 @@ MERGED from [com.android.support:support-compat:27.0.2] C:\Users\j_ces\.gradle\c
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\68c67195c5a4bbdc611fa36a29ba9c4e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a8da805f53c7ff9a5ea2702924a5765d\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a8da805f53c7ff9a5ea2702924a5765d\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\samples\src\main\AndroidManifest.xml
-receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
-ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-19:20
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\samples\src\main\AndroidManifest.xml
+receiver#com.julioapps.commons.receivers.SharedThemeReceiver
+ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-19:20
 	android:exported
-		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-36
+		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-87
-intent-filter#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+com.simplemobiletools.commons.SHARED_THEME_UPDATED
-ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-18:29
-action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
-ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:17-95
+		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-79
+intent-filter#com.julioapps.commons.SHARED_THEME_ACTIVATED+com.julioapps.commons.SHARED_THEME_UPDATED
+ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-18:29
+action#com.julioapps.commons.SHARED_THEME_ACTIVATED
+ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:17-87
 	android:name
-		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:25-92
-action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
-ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:17-93
+		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:25-84
+action#com.julioapps.commons.SHARED_THEME_UPDATED
+ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:17-85
 	android:name
-		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:25-90
+		ADDED from [:commons] C:\Users\j_ces\Desktop\Simple-Commons-master\Julio-Commons\commons\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:25-82
 uses-permission#android.permission.USE_FINGERPRINT
 ADDED from [com.github.ajalt.reprint:core:3.2.0] C:\Users\j_ces\.gradle\caches\transforms-1\files-1.1\core-3.2.0.aar\92280b0d0d031e79d23a6761f274c974\AndroidManifest.xml:9:5-74
 	android:name

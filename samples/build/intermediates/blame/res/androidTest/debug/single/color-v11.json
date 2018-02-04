@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\98bc4244925c0c5f90475392a80a799f\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\98bc4244925c0c5f90475392a80a799f\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\98bc4244925c0c5f90475392a80a799f\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\98bc4244925c0c5f90475392a80a799f\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

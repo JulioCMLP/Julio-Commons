@@ -21,7 +21,7 @@
             android:paddingRight="@dimen/activity_margin"
             android:paddingTop="@dimen/bigger_margin">
 
-            <com.simplemobiletools.commons.views.MyTextView
+            <com.julioapps.commons.views.MyTextView
                 android:id="@+id/customization_theme_label"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
                 android:paddingRight="@dimen/medium_margin"
                 android:text="@string/theme"/>
 
-            <com.simplemobiletools.commons.views.MyTextView
+            <com.julioapps.commons.views.MyTextView
                 android:id="@+id/customization_theme"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
             android:background="?attr/selectableItemBackground"
             android:padding="@dimen/activity_margin">
 
-            <com.simplemobiletools.commons.views.MyTextView
+            <com.julioapps.commons.views.MyTextView
                 android:id="@+id/customization_text_color_label"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -84,7 +84,7 @@
             android:background="?attr/selectableItemBackground"
             android:padding="@dimen/activity_margin">
 
-            <com.simplemobiletools.commons.views.MyTextView
+            <com.julioapps.commons.views.MyTextView
                 android:id="@+id/customization_background_color_label"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -114,7 +114,7 @@
             android:background="?attr/selectableItemBackground"
             android:padding="@dimen/activity_margin">
 
-            <com.simplemobiletools.commons.views.MyTextView
+            <com.julioapps.commons.views.MyTextView
                 android:id="@+id/customization_primary_color_label"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -144,7 +144,7 @@
             android:layout_marginTop="@dimen/activity_margin"
             android:background="?attr/selectableItemBackground">
 
-            <com.simplemobiletools.commons.views.MyTextView
+            <com.julioapps.commons.views.MyTextView
                 android:id="@+id/apply_to_all"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

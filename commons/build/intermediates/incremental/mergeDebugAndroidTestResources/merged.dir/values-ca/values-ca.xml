@@ -207,7 +207,7 @@
     <string name="purchase">Comprar</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Sius plau compra la aplicació <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> per desblocar aquesta fucnió i ajudar al desenvolupament. Gràcies!
+            Sius plau compra la aplicació <a href="https://play.google.com/store/apps/">Thank You</a> per desblocar aquesta fucnió i ajudar al desenvolupament. Gràcies!
         ]]>
     </string>
     <string name="rate_us_underlined"><u>vota\'ns a Play Store</u></string>

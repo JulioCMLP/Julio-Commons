@@ -749,11 +749,11 @@ public final class R {
         public static final int abc_shareactionprovider_share_with = 0x7f06000e;
         public static final int abc_shareactionprovider_share_with_application = 0x7f06000f;
         public static final int abc_toolbar_collapse_description = 0x7f060010;
-        public static final int lib_name = 0x7f060126;
-        public static final int message_pattern_cleared = 0x7f060127;
-        public static final int message_pattern_detected = 0x7f060128;
-        public static final int message_pattern_dot_added = 0x7f060129;
-        public static final int message_pattern_started = 0x7f06012a;
+        public static final int lib_name = 0x7f060127;
+        public static final int message_pattern_cleared = 0x7f060128;
+        public static final int message_pattern_detected = 0x7f060129;
+        public static final int message_pattern_dot_added = 0x7f06012a;
+        public static final int message_pattern_started = 0x7f06012b;
         public static final int search_menu_title = 0x7f06001e;
         public static final int status_bar_notification_info_overflow = 0x7f06001f;
     }

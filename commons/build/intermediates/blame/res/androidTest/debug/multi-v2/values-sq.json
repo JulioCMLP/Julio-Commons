@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\commons\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\values-sq\\values-sq.xml",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\commons\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\68c67195c5a4bbdc611fa36a29ba9c4e\\res\\values-sq\\values-sq.xml",

@@ -10,8 +10,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.simplemobiletools.commons.test"
-        android:targetPackage="com.simplemobiletools.commons.test" />
+        android:label="Tests for com.julioapps.commons.test"
+        android:targetPackage="com.julioapps.commons.test" />
 
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 
@@ -22,8 +22,8 @@
             android:name="com.julioapps.commons.receivers.SharedThemeReceiver"
             android:exported="true" >
             <intent-filter>
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+                <action android:name="com.julioapps.commons.SHARED_THEME_ACTIVATED" />
+                <action android:name="com.julioapps.commons.SHARED_THEME_UPDATED" />
             </intent-filter>
         </receiver>
     </application>

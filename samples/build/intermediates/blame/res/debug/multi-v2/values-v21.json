@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,12,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,203,348,580,744",
+                        "endLines": "4,7,11,14,15",
+                        "endColumns": "12,12,12,12,71",
+                        "endOffsets": "198,343,575,739,811"
+                    },
+                    "to": {
+                        "startLines": "229,232,235,239,280",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "17224,17372,17517,17749,20262",
+                        "endLines": "231,234,238,241,280",
+                        "endColumns": "12,12,12,12,71",
+                        "endOffsets": "17367,17512,17744,17908,20329"
+                    }
+                },
                 {
                     "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -39,25 +58,6 @@
                         "endLines": "2,3,4,5,281,282,289,293,299,304",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,20445,20571,21028,21324,21663,22001"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\commons\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,12,15",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,203,348,580,744",
-                        "endLines": "4,7,11,14,15",
-                        "endColumns": "12,12,12,12,71",
-                        "endOffsets": "198,343,575,739,811"
-                    },
-                    "to": {
-                        "startLines": "229,232,235,239,280",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "17224,17372,17517,17749,20262",
-                        "endLines": "231,234,238,241,280",
-                        "endColumns": "12,12,12,12,71",
-                        "endOffsets": "17367,17512,17744,17908,20329"
                     }
                 },
                 {
@@ -101,8 +101,27 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\samples\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\Julio-Commons\\commons\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,12,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,203,348,580,744",
+                        "endLines": "4,7,11,14,15",
+                        "endColumns": "12,12,12,12,71",
+                        "endOffsets": "198,343,575,739,811"
+                    },
+                    "to": {
+                        "startLines": "229,232,235,239,280",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "17224,17372,17517,17749,20262",
+                        "endLines": "231,234,238,241,280",
+                        "endColumns": "12,12,12,12,71",
+                        "endOffsets": "17367,17512,17744,17908,20329"
+                    }
+                },
                 {
                     "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\822caafff3671dec37254f48f1c31c09\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -139,25 +158,6 @@
                         "endLines": "2,3,4,5,281,282,289,293,299,304",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,20445,20571,21028,21324,21663,22001"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\commons\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,12,15",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,203,348,580,744",
-                        "endLines": "4,7,11,14,15",
-                        "endColumns": "12,12,12,12,71",
-                        "endOffsets": "198,343,575,739,811"
-                    },
-                    "to": {
-                        "startLines": "229,232,235,239,280",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "17224,17372,17517,17749,20262",
-                        "endLines": "231,234,238,241,280",
-                        "endColumns": "12,12,12,12,71",
-                        "endOffsets": "17367,17512,17744,17908,20329"
                     }
                 },
                 {

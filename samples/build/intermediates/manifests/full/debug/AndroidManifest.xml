@@ -12,14 +12,14 @@
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 
     <application
-        android:name="com.simplemobiletools.commons.samples.App"
+        android:name="com.julioapps.commons.samples.App"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/commons_launcher"
         android:label="@string/smtco_app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.simplemobiletools.commons.samples.activities.MainActivity" >
+        <activity android:name="com.julioapps.commons.samples.activities.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,11 +31,11 @@
         <activity android:name="com.julioapps.commons.activities.CustomizationActivity" />
 
         <receiver
-            android:name="com.simplemobiletools.commons.receivers.SharedThemeReceiver"
+            android:name="com.julioapps.commons.receivers.SharedThemeReceiver"
             android:exported="true" >
             <intent-filter>
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+                <action android:name="com.julioapps.commons.SHARED_THEME_ACTIVATED" />
+                <action android:name="com.julioapps.commons.SHARED_THEME_UPDATED" />
             </intent-filter>
         </receiver>
     </application>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.simplemobiletools.commons"
+    package="com.julioapps.commons"
     android:versionCode="1"
     android:versionName="3.7.9" >
 
@@ -10,11 +10,11 @@
 
     <application>
         <receiver
-            android:name="com.simplemobiletools.commons.receivers.SharedThemeReceiver"
+            android:name="com.julioapps.commons.receivers.SharedThemeReceiver"
             android:exported="true" >
             <intent-filter>
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+                <action android:name="com.julioapps.commons.SHARED_THEME_ACTIVATED" />
+                <action android:name="com.julioapps.commons.SHARED_THEME_UPDATED" />
             </intent-filter>
         </receiver>
     </application>

@@ -1416,7 +1416,7 @@
         ]]>
     </string>
     <string name="donate_underlined"><u>Donate</u></string>
-    <string name="donate_url">http://simplemobiletools.com/donate</string>
+    <string name="donate_url">#</string>
     <string name="duration">Duration</string>
     <string name="email_label">Send your feedback or suggestions to</string>
     <string name="empty_name">Please enter a name</string>
@@ -1490,6 +1490,7 @@
     <string name="joda_text">Copyright 2013 JodaOrg\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttps://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>
     <string name="joda_title">Joda-Time (Java date replacement)</string>
     <string name="joda_url">https://github.com/JodaOrg/joda-time</string>
+    <string name="julio_commons">Julio Commons</string>
     <string name="keep_last_modified">Keep old last-modified value at file copy/move/rename</string>
     <string name="kotlin_text">Copyright 2010 - 2018 JetBrains s.r.o.\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttps://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>
     <string name="kotlin_title">Kotlin (programming language)</string>
@@ -1516,8 +1517,8 @@
     <string name="multiselect_text">The MIT License (MIT)\n\nCopyright (c) 2014 Big Nerd Ranch\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: \n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. \n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
     <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
     <string name="multiselect_url">https://github.com/bignerdranch/recyclerview-multiselect</string>
-    <string name="my_email">hello@simplemobiletools.com</string>
-    <string name="my_website">\nhttp://simplemobiletools.com</string>
+    <string name="my_email">juliopilcosanchez@gmail.com</string>
+    <string name="my_website">https://github.com/JulioCMLP</string>
     <string name="name">Name</string>
     <string name="name_taken">A file or folder with that name already exists</string>
     <string name="no">No</string>
@@ -1568,7 +1569,7 @@
     <string name="purchase">Purchase</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Please purchase <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> to unlock this function and support the development. Thanks!
+            Please purchase <a href="https://play.google.com/store/apps">Thank you</a> to unlock this function and support the development. Thanks!
         ]]>
     </string>
     <string name="rate_us_underlined"><u>Rate us</u></string>
@@ -1619,11 +1620,10 @@
     <string name="shared">Shared</string>
     <string name="show_hidden_items">Show hidden items</string>
     <string name="show_info_bubble">Show an info bubble at scrolling items by scrollbar dragging</string>
-    <string name="simple_commons">Simple Commons</string>
     <string name="size">Size</string>
     <string name="skip">Skip</string>
     <string name="small">Small</string>
-    <string name="smtco_app_name">Simple Commons</string>
+    <string name="smtco_app_name">Julio Commons</string>
     <string name="solarized">Solarized</string>
     <string name="song_title">Song title</string>
     <string name="sort_by">Sort by</string>
@@ -1639,7 +1639,7 @@
     <string name="subsampling_url">https://github.com/davemorrissey/subsampling-scale-image-view</string>
     <string name="temporarily_show_hidden">Temporarily show hidden</string>
     <string name="text_color">Text color</string>
-    <string name="thank_you_url">https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou</string>
+    <string name="thank_you_url">https://play.google.com/store/apps/</string>
     <string name="theme">Theme</string>
     <string name="third_party_licences">Third party licences</string>
     <string name="third_party_licences_underlined"><u>Third party licences</u></string>

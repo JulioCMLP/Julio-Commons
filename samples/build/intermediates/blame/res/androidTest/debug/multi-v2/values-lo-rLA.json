@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-lo-rLA\\values-lo-rLA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\core-3.2.0.aar\\92280b0d0d031e79d23a6761f274c974\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,217,371,514,652,788,916,1043,1182,1356,1491,1600,1700",
+                        "endColumns": "161,153,142,137,135,127,126,138,173,134,108,99,81",
+                        "endOffsets": "212,366,509,647,783,911,1038,1177,1351,1486,1595,1695,1777"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-lo-rLA\\values-lo-rLA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\core-3.2.0.aar\\92280b0d0d031e79d23a6761f274c974\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,217,371,514,652,788,916,1043,1182,1356,1491,1600,1700",
+                        "endColumns": "161,153,142,137,135,127,126,138,173,134,108,99,81",
+                        "endOffsets": "212,366,509,647,783,911,1038,1177,1351,1486,1595,1695,1777"
+                    }
+                }
+            ]
+        }
+    ]
+}

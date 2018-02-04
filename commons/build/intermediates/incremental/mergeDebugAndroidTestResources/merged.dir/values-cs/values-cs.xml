@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hours">
+        <item quantity="one">%1$d hour</item>
+        <item quantity="other">%1$d hours</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%1$d položka</item>
+        <item quantity="other">%1$d položek</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%1$d minute</item>
+        <item quantity="other">%1$d minutes</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%1$d second</item>
+        <item quantity="other">%1$d seconds</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="about">O aplikaci</string>
+    <string name="add_fingerprint">Add fingerprint</string>
+    <string name="additional_info">Additional info</string>
+    <string name="album">Album</string>
+    <string name="an_error_occurred">Vyskytla se chyba: %s</string>
+    <string name="app_version">App version: %1$s</string>
+    <string name="append">Ponechat s \'_1\'</string>
+    <string name="apply_to_all">Použít pro všechny</string>
+    <string name="apply_to_all_apps">Apply colors to all Simple Apps</string>
+    <string name="artist">Autor</string>
+    <string name="ascending">Vzestupně</string>
+    <string name="authentication_blocked">Authentication blocked, please try again in a moment</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="autofittextview_title">AutoFitTextView (resizing text)</string>
+    <string name="background_color">Barva pozadí</string>
+    <string name="black_white">Black &amp; White</string>
+    <string name="camera">Fotoaparát</string>
+    <string name="cancel">Zrušit</string>
+    <string name="change_filter">Change filter</string>
+    <string name="changing_color_description">Změna barvy změní motiv na Vlastní</string>
+    <string name="click_select_destination">Klikněte zde pro volbu cílové složky</string>
+    <string name="confirm_selection">Confirm selection</string>
+    <string name="confirm_storage_access_text">Na následující obrazovce prosím zvolte root složku SD karty pro povolení oprávnění k zápisu</string>
+    <string name="confirm_storage_access_text_sd">Pokud SD kartu nevidíte, vyzkoušejte následující</string>
+    <string name="confirm_storage_access_title">Potvrďte přístup k externímu úložišti</string>
+    <string name="copy">Kopírovat</string>
+    <string name="copy_failed">Nelze zkopírovat soubory</string>
+    <string name="copy_move">Kopírovat / Přesunout</string>
+    <string name="copy_move_failed">Vyskytla se chyba</string>
+    <string name="copy_to">Kopírovat do</string>
+    <string name="copying">Kopíruji…</string>
+    <string name="copying_success">Soubory byly úspěšně zkopírovány</string>
+    <string name="copying_success_partial">Některé soubory nemohly být zkopírovány</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">Could not create file %s</string>
+    <string name="could_not_create_folder">Could not create folder %s</string>
+    <string name="create_new">Nový</string>
+    <string name="create_new_folder">Vytvořit novou složku</string>
+    <string name="cropper_title">Android Image Cropper (image crop and rotate)</string>
+    <string name="custom">Vlastní</string>
+    <string name="customize_colors">Přizpůsobit barvy</string>
+    <string name="dark_red">Dark red</string>
+    <string name="dark_theme">Tmavý</string>
+    <string name="date_taken">Data pořízení</string>
+    <string name="delete">Smazat</string>
+    <string name="descending">Sestupně</string>
+    <string name="destination">Cíl</string>
+    <string name="device_os">Device OS: %1$s</string>
+    <string name="direct_children_count">Počet přímých dětí</string>
+    <string name="discard">Zahodit</string>
+    <string name="donate">Donate</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hello,<br><br>
+            hope you are enjoying the app. It contains no ads, please support its development by purchasing the <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> app, it will also prevent this dialog from showing up again.<br><br>
+            You can find more donating options <a href="http://simplemobiletools.com/donate">here</a>.<br><br>
+            Thank you!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Donate</u></string>
+    <string name="duration">Délka</string>
+    <string name="email_label">Svoji zpětnou vazbu či návhry posílejte na</string>
+    <string name="empty_name">Zadejte prosím název</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="espresso_title">Espresso (testing helper)</string>
+    <string name="exif">EXIF</string>
+    <string name="exporting">Exportování…</string>
+    <string name="exporting_failed">Exporting failed</string>
+    <string name="exporting_some_entries_failed">Exporting some entries failed</string>
+    <string name="exporting_successful">Exporting successful</string>
+    <string name="exposure_time">Čas explozice</string>
+    <string name="extension">Přípony</string>
+    <string name="extension_cannot_be_empty">Přípona nemůže být prázdná</string>
+    <string name="extra_large">Extra large</string>
+    <string name="f_number">F-číslo</string>
+    <string name="file">Soubor</string>
+    <string name="file_already_exists">Soubor %1$s již existuje</string>
+    <string name="file_already_exists_overwrite">Soubor %1$s již existuje. Přepsat??</string>
+    <string name="file_saved">Soubor úspěšně uložen</string>
+    <string name="filename">Názvu souboru</string>
+    <string name="filename_cannot_be_empty">Název souboru nemůže být prázdný</string>
+    <string name="filename_invalid_characters">Název souboru obsahuje neplatné znaky</string>
+    <string name="files_count">Celkový počet souborů</string>
+    <string name="filter">Filtrovat</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Senzor otisků prstů je znečištěn. Vyčistěte jej a zkuste to znovu."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Zpracování otisku prstu se nezdařilo. Zkuste to znovu."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Byla zjištěna jen část otisku prstu. Zkuste to znovu."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Pohyb prstem byl příliš rychlý. Zkuste to znovu."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Pohyb prstem byl příliš pomalý. Zkuste to znovu."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Operace otisku prstu byla zrušena."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Není k dispozici hardware ke snímání otisků prstů."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Příliš mnoho pokusů. Zkuste to později."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Otisk prstu nelze uložit. Odstraňte existující otisk prstu."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Časový limit sejmutí otisku prstu vypršel. Zkuste to znovu."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Zkuste to znovu."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Nerozpoznáno"</string>
+    <string name="fingerprint_setup_successfully">Protection setup successfully. Please reinstall the app in case of problems with reseting it.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Digitální otisky:"</string>
+    <string name="focal_length">Ohnisková vzdálenost</string>
+    <string name="folder">Složka</string>
+    <string name="follow_us">Sledujte nás</string>
+    <string name="font_size">Font size</string>
+    <string name="gif_drawable_title">Gif Drawable (loading GIFs)</string>
+    <string name="glide_title">Glide (image loading and caching)</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="gson_title">Gson (JSON parser)</string>
+    <string name="hide">Skrýt</string>
+    <string name="hide_folder">Skrýt složku</string>
+    <string name="importing">Importování…</string>
+    <string name="importing_failed">Importing failed</string>
+    <string name="importing_some_entries_failed">Importing some entries failed</string>
+    <string name="importing_successful">Importing successful</string>
+    <string name="insert_pattern">Insert pattern</string>
+    <string name="internal">Interní</string>
+    <string name="invalid_destination">Nelze zapisovat do zvolené destinace</string>
+    <string name="invalid_file_format">Neplatný formát souboru</string>
+    <string name="invalid_name">Název obsahuje neplatné znaky</string>
+    <string name="invite_friends_underlined"><u>Pozvat přátele</u></string>
+    <string name="invite_via">Pozvat pomocí</string>
+    <string name="iso_speed">Citlivost ISO</string>
+    <string name="items_selected">Položek zvoleno</string>
+    <string name="joda_title">Joda-Time (Java date replacement)</string>
+    <string name="keep_last_modified">Keep old last-modified value at file copy/move/rename</string>
+    <string name="kotlin_title">Kotlin (programovací jazyk)</string>
+    <string name="large">Large</string>
+    <string name="last_modified">Poslední úpravy</string>
+    <string name="leak_canary_title">Leak Canary (memory leak detector)</string>
+    <string name="light_theme">Světlý</string>
+    <string name="maximum_share_reached">You cannot share this much content at once</string>
+    <string name="medium">Medium</string>
+    <string name="more_apps_underlined"><u>Více aplikací</u></string>
+    <string name="move">Přesunout</string>
+    <string name="move_to">Přesunout do</string>
+    <string name="moving">Přesunuji…</string>
+    <string name="moving_success">Soubory byly úspěšně přesunuty</string>
+    <string name="moving_success_partial">Některé soubory nemohly být přesunuty</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
+    <string name="name">Názvu</string>
+    <string name="name_taken">Soubor nebo složka s tímto názvem již existuje</string>
+    <string name="no">Ne</string>
+    <string name="no_app_found">Nebyla nalezena žádná vhodná aplikace</string>
+    <string name="no_audio_permissions">Audio permission is required</string>
+    <string name="no_camera_permissions">Camera permission is required</string>
+    <string name="no_contacts_permission">Contacts permission is required</string>
+    <string name="no_entries_for_exporting">No entries for exporting have been found</string>
+    <string name="no_files_selected">Žádné soubory vybrány</string>
+    <string name="no_fingerprints_registered">You have no fingerprints registered, please add some in the Settings of your device</string>
+    <string name="no_items_found">No items found.</string>
+    <string name="no_storage_permissions">Storage permission is required</string>
+    <string name="notice">Tato aplikace využívá následující knihovny třetích stran pro zjednodušení mého žívota. Děkuji.</string>
+    <string name="ok">OK</string>
+    <string name="open_with">Otevřít pomocí</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Zařízení nemá dostatek paměti</string>
+    <string name="overwrite">Přepsat</string>
+    <string name="password_protect_hidden_items">Password protect hidden item visibility</string>
+    <string name="password_protect_whole_app">Password protect the whole application</string>
+    <string name="path">Cesta</string>
+    <string name="pattern">Pattern</string>
+    <string name="pattern_title">PatternLockView (pattern protection)</string>
+    <string name="photoview_title">PhotoView (zoomable GIFs)</string>
+    <string name="picasso_title">Picasso (image loading and caching)</string>
+    <string name="pin">PIN</string>
+    <string name="place_finger">Please place your finger on the fingerprint sensor</string>
+    <string name="please_enter_pin">Please enter a PIN</string>
+    <string name="please_select_destination">Prosím zvolte cílovou složku</string>
+    <string name="primary_color">Primární barva</string>
+    <string name="proceed_with_deletion">Opravdu chcete smazat dané soubory/složky?</string>
+    <string name="properties">Vlastnosti</string>
+    <string name="protection_setup_successfully">Password setup successfully. Please reinstall the app in case you forget it.</string>
+    <string name="purchase">Purchase</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Please purchase <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> to unlock this function and support the development. Thanks!
+        ]]>
+    </string>
+    <string name="rate_us_underlined"><u>Ohodnotit</u></string>
+    <string name="remove">Remove</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="rename_file">Přejmenovat soubor</string>
+    <string name="rename_file_error">Nelze přejmenovat soubor</string>
+    <string name="rename_folder">Přejmenovat složku</string>
+    <string name="rename_folder_empty">Název složky nesmí být prázdný</string>
+    <string name="rename_folder_error">Nelze přejmenovat složku</string>
+    <string name="rename_folder_exists">Složka s tímto názvem již existuje</string>
+    <string name="rename_folder_ok">Složka byla úspěšně přejmenována</string>
+    <string name="rename_folder_root">Nelze přejmenovat root složku úložiště</string>
+    <string name="renaming_folder">Přejmenování složky</string>
+    <string name="repeat_pattern">Repeat pattern</string>
+    <string name="repeat_pin">Repeat PIN</string>
+    <string name="reprint_title">Reprint (fingerprint protection)</string>
+    <string name="resolution">Rozlišení</string>
+    <string name="restore_defaults">Obnovit výchozí</string>
+    <string name="robolectric_title">Robolectric (testing framework)</string>
+    <string name="root">Root</string>
+    <string name="rtl_viewpager_title">RtlViewPager (right to left swiping)</string>
+    <string name="save">Uložit</string>
+    <string name="save_as">Uložit jako</string>
+    <string name="save_before_closing">Máte neuložené změny. Uložit před zavřením?</string>
+    <string name="saving">Ukládám…</string>
+    <string name="sd_card">SD Karta</string>
+    <string name="search">Hledat</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
+    <string name="select_all">Označit vše</string>
+    <string name="select_an_action">Zvolte akci</string>
+    <string name="select_destination">Zvolit cílovou složku</string>
+    <string name="select_file">Zvolte soubor</string>
+    <string name="select_folder">Zvolte složku</string>
+    <string name="select_storage">Zvolit úložiště</string>
+    <string name="set_as">Nastavit jako</string>
+    <string name="settings">Nastavení</string>
+    <string name="share">Sdílet</string>
+    <string name="share_colors_success">Colors updated successfully. A new Theme called \'Shared\' has been added, please use that for updating all app colors in the future.</string>
+    <string name="share_text">Ahoj, pojď se podívat na %1$s v/na %2$s</string>
+    <string name="share_via">Sdílet pomocí</string>
+    <string name="shared">Shared</string>
+    <string name="show_hidden_items">Zobrazit skryté položky</string>
+    <string name="show_info_bubble">Show an info bubble at scrolling items by scrollbar dragging</string>
+    <string name="size">Velikosti</string>
+    <string name="skip">Přeskočit</string>
+    <string name="small">Small</string>
+    <string name="solarized">Solarizovaná</string>
+    <string name="song_title">Song title</string>
+    <string name="sort_by">Seřadit dle</string>
+    <string name="source">Zdroj</string>
+    <string name="source_and_destination_same">Zdrojová a cílová složka se musí lišit</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stetho_title">Stetho (debugging databases)</string>
+    <string name="stop_showing_hidden">Stop showing hidden media</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoomable imageviews)</string>
+    <string name="temporarily_show_hidden">Dočasně zobrazit skryté</string>
+    <string name="text_color">Barva písma</string>
+    <string name="theme">Motiv</string>
+    <string name="third_party_licences">Licence třetích stran</string>
+    <string name="third_party_licences_underlined"><u>Licence třetí strany</u></string>
+    <string name="title">Titulku</string>
+    <string name="type_2_characters">Type in at least 2 characters to start the search.</string>
+    <string name="undo_changes">Vrátit změny zpět</string>
+    <string name="undo_changes_confirmation">Opravdu chcete vrátit změny zpět?</string>
+    <string name="unhide">Odkrýt</string>
+    <string name="unhide_folder">Odkrýt složku</string>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_error_occurred">Vyskytla se neznámá chyba</string>
+    <string name="use_english_language">Use English language</string>
+    <string name="use_for_this_folder">Použít pouze pro tuto složku</string>
+    <string name="value_copied_to_clipboard">Value copied to clipboard</string>
+    <string name="website_label">Pro zdrojové kódy navštivte</string>
+    <string name="whats_new">Co je nového</string>
+    <string name="whats_new_disclaimer">* pouze větší změny jsou zde uvedeny, vždy jsou doprovázeny také menšími změnami</string>
+    <string name="wrong_pattern">Wrong pattern</string>
+    <string name="wrong_pin">Wrong PIN</string>
+    <string name="wrong_root_selected">Neplatná složka zvolena, zvolte prosím root složku vaší SD karty</string>
+    <string name="yes">Ano</string>
+</resources>

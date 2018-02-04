@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-mn-rMN\\values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\core-3.2.0.aar\\92280b0d0d031e79d23a6761f274c974\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,379,520,665,804,930,1071,1213,1375,1521,1633,1736",
+                        "endColumns": "172,150,140,144,138,125,140,141,161,145,111,102,83",
+                        "endOffsets": "223,374,515,660,799,925,1066,1208,1370,1516,1628,1731,1815"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\j_ces\\Desktop\\Simple-Commons-master\\samples\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\j_ces\\.gradle\\caches\\transforms-1\\files-1.1\\core-3.2.0.aar\\92280b0d0d031e79d23a6761f274c974\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,379,520,665,804,930,1071,1213,1375,1521,1633,1736",
+                        "endColumns": "172,150,140,144,138,125,140,141,161,145,111,102,83",
+                        "endOffsets": "223,374,515,660,799,925,1066,1208,1370,1516,1628,1731,1815"
+                    }
+                }
+            ]
+        }
+    ]
+}

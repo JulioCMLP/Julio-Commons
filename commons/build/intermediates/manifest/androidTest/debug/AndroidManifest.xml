@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.julioapps.commons.test" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="27" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.simplemobiletools.commons.test"
+        android:targetPackage="com.simplemobiletools.commons.test" />
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <receiver
+            android:name="com.julioapps.commons.receivers.SharedThemeReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
+                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

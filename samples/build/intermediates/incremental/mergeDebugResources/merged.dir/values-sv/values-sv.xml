@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hours">
+        <item quantity="one">%1$d timme</item>
+        <item quantity="other">%1$d timmar</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%1$d objekt</item>
+        <item quantity="other">%1$d objekt</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%1$d minut</item>
+        <item quantity="other">%1$d minuter</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%1$d sekund</item>
+        <item quantity="other">%1$d sekunder</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="about">Om</string>
+    <string name="add_fingerprint">Lägg till fingeravtryck</string>
+    <string name="additional_info">Ytterligare info</string>
+    <string name="album">Album</string>
+    <string name="an_error_occurred">Ett fel har uppstått: %s</string>
+    <string name="app_version">Appversion: %1$s</string>
+    <string name="append">Bifoga \'_1\'</string>
+    <string name="apply_to_all">Använd på alla konflikter</string>
+    <string name="apply_to_all_apps">Använd färgerna i alla Simple-appar</string>
+    <string name="artist">Artist</string>
+    <string name="ascending">Stigande</string>
+    <string name="authentication_blocked">Autentisering blockeras, försök igen om en stund</string>
+    <string name="authentication_failed">Autentiseringen misslyckades</string>
+    <string name="autofittextview_title">AutoFitTextView (storleksändring av text)</string>
+    <string name="background_color">Bakgrundsfärg</string>
+    <string name="black_white">Black &amp; White</string>
+    <string name="camera">Kamera</string>
+    <string name="cancel">Avbryt</string>
+    <string name="change_filter">Change filter</string>
+    <string name="changing_color_description">Om du ändrar en färg, ändras temat till anpassat tema</string>
+    <string name="click_select_destination">Tryck här för att välja mål</string>
+    <string name="confirm_selection">Bekräfta val</string>
+    <string name="confirm_storage_access_text">Välj rotmappen på ditt SD-kort på nästa skärmbild, för att bevilja skrivrättigheter</string>
+    <string name="confirm_storage_access_text_sd">Om du inte ser SD-kortet, prova detta</string>
+    <string name="confirm_storage_access_title">Bekräfta åtkomst till extern lagring</string>
+    <string name="copy">Kopiera</string>
+    <string name="copy_failed">Det gick inte att kopiera filerna</string>
+    <string name="copy_move">Kopiera / Flytta</string>
+    <string name="copy_move_failed">Ett fel har uppstått</string>
+    <string name="copy_to">Kopiera till</string>
+    <string name="copying">Kopierar…</string>
+    <string name="copying_success">Filerna har kopierats</string>
+    <string name="copying_success_partial">Det gick inte att kopiera vissa filer</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">Det gick inte att skapa filen %s</string>
+    <string name="could_not_create_folder">Det gick inte att skapa mappen %s</string>
+    <string name="create_new">Skapa ny</string>
+    <string name="create_new_folder">Skapa ny mapp</string>
+    <string name="cropper_title">Android Image Cropper (beskärning och rotering av bilder)</string>
+    <string name="custom">Anpassat</string>
+    <string name="customize_colors">Anpassa färger</string>
+    <string name="dark_red">Mörkrött</string>
+    <string name="dark_theme">Mörkt</string>
+    <string name="date_taken">Fotodatum</string>
+    <string name="delete">Ta bort</string>
+    <string name="descending">Fallande</string>
+    <string name="destination">Mål</string>
+    <string name="device_os">Enhetens operativsystem: %1$s</string>
+    <string name="direct_children_count">Antal direkta döttrar</string>
+    <string name="discard">Avbryt</string>
+    <string name="donate">Donera</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hej,<br><br>
+            jag hoppas att du gillar appen. Den innehåller ingen reklam, så stöd dess utveckling genom att köpa appen <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a>, som även hindrar den här dialogrutan från att visas igen.<br><br>
+            Du hittar fler donationsalternativ <a href="http://simplemobiletools.com/donate">här</a>.<br><br>
+            Tack!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Donera</u></string>
+    <string name="duration">Varaktighet</string>
+    <string name="email_label">Skicka dina synpunkter och förslag till</string>
+    <string name="empty_name">Ange ett namn</string>
+    <string name="enter_pin">Ange PIN-kod</string>
+    <string name="espresso_title">Espresso (testhjälpklass)</string>
+    <string name="exif">EXIF</string>
+    <string name="exporting">Exporterar…</string>
+    <string name="exporting_failed">Exporting failed</string>
+    <string name="exporting_some_entries_failed">Exporting some entries failed</string>
+    <string name="exporting_successful">Exporting successful</string>
+    <string name="exposure_time">Exponeringstid</string>
+    <string name="extension">Filändelse</string>
+    <string name="extension_cannot_be_empty">Filändelsen får inte vara tom</string>
+    <string name="extra_large">Extra stor</string>
+    <string name="f_number">F-nummer</string>
+    <string name="file">Fil</string>
+    <string name="file_already_exists">Filen %1$s finns redan</string>
+    <string name="file_already_exists_overwrite">Filen %1$s finns redan. Skriv över?</string>
+    <string name="file_saved">Filen sparad</string>
+    <string name="filename">Filnamn</string>
+    <string name="filename_cannot_be_empty">Du måste ange ett filnamn</string>
+    <string name="filename_invalid_characters">Filnamnet innehåller ogiltiga tecken</string>
+    <string name="files_count">Antal filer</string>
+    <string name="filter">Filtrera</string>
+    <string name="fingerprint">Fingeravtryck</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Fingeravtryckssensorn är smutsig. Rengör den och försök igen."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Det gick inte att bearbeta fingeravtrycket. Försök igen."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Ofullständigt fingeravtryck. Försök igen."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Du rörde fingret för snabbt. Försök igen"</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Du rörde fingret för långsamt. Försök igen."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Fingeravtrycksåtgärden avbröts."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Det finns ingen maskinvara för fingeravtryck."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Du har gjort för många försök. Försök igen senare."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Fingeravtrycket kan inte lagras. Ta bort ett befintligt fingeravtryck."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Tidsgränsen för fingeravtrycket har uppnåtts. Försök igen."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Försök igen."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Identifierades inte"</string>
+    <string name="fingerprint_setup_successfully">Skyddet har ställts in. Installera om appen om du inte kan ta bort skyddet.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Fingeravtryck:"</string>
+    <string name="focal_length">Brännvidd</string>
+    <string name="folder">Mapp</string>
+    <string name="follow_us">Följ oss</string>
+    <string name="font_size">Teckenstorlek</string>
+    <string name="gif_drawable_title">Gif Drawable (inläsning av GIF-bilder)</string>
+    <string name="glide_title">Glide (inläsning och cachning av bilder)</string>
+    <string name="go_to_settings">Gå till Inställningar</string>
+    <string name="gson_title">Gson (JSON-parser)</string>
+    <string name="hide">Dölj</string>
+    <string name="hide_folder">Dölj mapp</string>
+    <string name="importing">Importerar…</string>
+    <string name="importing_failed">Importing failed</string>
+    <string name="importing_some_entries_failed">Importing some entries failed</string>
+    <string name="importing_successful">Importing successful</string>
+    <string name="insert_pattern">Rita mönster</string>
+    <string name="internal">Internt</string>
+    <string name="invalid_destination">Det gick inte att skriva till målet</string>
+    <string name="invalid_file_format">Ogiltigt filformat</string>
+    <string name="invalid_name">Namnet innehåller ogiltiga tecken</string>
+    <string name="invite_friends_underlined"><u>Bjud in vänner</u></string>
+    <string name="invite_via">Bjud in via</string>
+    <string name="iso_speed">ISO-grader</string>
+    <string name="items_selected">Valda objekt</string>
+    <string name="joda_title">Joda-Time (ersättning för Javas datumklass)</string>
+    <string name="keep_last_modified">Behåll senast ändrad-tider när filer kopieras, flyttas eller får nya namn</string>
+    <string name="kotlin_title">Kotlin (programmeringsspråk)</string>
+    <string name="large">Stor</string>
+    <string name="last_modified">Senast ändrad</string>
+    <string name="leak_canary_title">Leak Canary (minnesläckagedetektor)</string>
+    <string name="light_theme">Ljust</string>
+    <string name="maximum_share_reached">Du kan inte dela så här mycket innehåll på en gång</string>
+    <string name="medium">Medelstor</string>
+    <string name="more_apps_underlined"><u>Fler appar</u></string>
+    <string name="move">Flytta</string>
+    <string name="move_to">Flytta till</string>
+    <string name="moving">Flyttar…</string>
+    <string name="moving_success">Filerna har flyttats</string>
+    <string name="moving_success_partial">Det gick inte att flytta vissa filer</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (markering av flera listobjekt)</string>
+    <string name="name">Namn</string>
+    <string name="name_taken">Det finns redan en fil eller mapp med det namnet</string>
+    <string name="no">Nej</string>
+    <string name="no_app_found">Hittade ingen giltig app</string>
+    <string name="no_audio_permissions">Mikrofonbehörighet krävs</string>
+    <string name="no_camera_permissions">Kamerabehörighet krävs</string>
+    <string name="no_contacts_permission">Kontaktbehörighet krävs</string>
+    <string name="no_entries_for_exporting">No entries for exporting have been found</string>
+    <string name="no_files_selected">Inga filer markerade</string>
+    <string name="no_fingerprints_registered">Du har inga registrerade fingeravtryck, lägg till några i Inställningarna på din enhet</string>
+    <string name="no_items_found">No items found.</string>
+    <string name="no_storage_permissions">Lagringsbehörighet krävs</string>
+    <string name="notice">Denna app använder följande tredjepartsbibliotek för att göra mitt liv enklare. Tack.</string>
+    <string name="ok">OK</string>
+    <string name="open_with">Öppna med</string>
+    <string name="otto_title">Otto (händelsebuss)</string>
+    <string name="out_of_memory_error">Minnet är fullt</string>
+    <string name="overwrite">Skriv över</string>
+    <string name="password_protect_hidden_items">Lösenordsskydda synligheten för dolda objekt</string>
+    <string name="password_protect_whole_app">Lösenordsskydda hela appen</string>
+    <string name="path">Sökväg</string>
+    <string name="pattern">Mönster</string>
+    <string name="pattern_title">PatternLockView (mönsterlås)</string>
+    <string name="photoview_title">PhotoView (zoombara GIF-bilder)</string>
+    <string name="picasso_title">Picasso (inläsning och cachning av bilder)</string>
+    <string name="pin">PIN-kod</string>
+    <string name="place_finger">Placera fingret på fingeravtrycksläsaren</string>
+    <string name="please_enter_pin">Ange en PIN-kod</string>
+    <string name="please_select_destination">Välj mål</string>
+    <string name="primary_color">Primär färg</string>
+    <string name="proceed_with_deletion">Är du säker på att du vill fortsätta med borttagningen?</string>
+    <string name="properties">Egenskaper</string>
+    <string name="protection_setup_successfully">Lösenordet har ställts in. Installera om appen om du glömmer bort det.</string>
+    <string name="purchase">Köp</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Köp <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> för att låsa upp denna funktion och stödja utvecklingen. Tack!
+        ]]>
+    </string>
+    <string name="rate_us_underlined"><u>Betygsätt oss</u></string>
+    <string name="remove">Remove</string>
+    <string name="rename">Döp om</string>
+    <string name="rename_file">Döp om fil</string>
+    <string name="rename_file_error">Det gick inte att döpa om filen</string>
+    <string name="rename_folder">Döp om mapp</string>
+    <string name="rename_folder_empty">Du måste ange ett mappnamn</string>
+    <string name="rename_folder_error">Det gick inte att döpa om mappen</string>
+    <string name="rename_folder_exists">En mapp med det namnet finns redan</string>
+    <string name="rename_folder_ok">Mappen döptes om</string>
+    <string name="rename_folder_root">Det går inte att döpa om rotmappen på lagringsutrymmet</string>
+    <string name="renaming_folder">Döper om mappen</string>
+    <string name="repeat_pattern">Upprepa mönster</string>
+    <string name="repeat_pin">Upprepa PIN-kod</string>
+    <string name="reprint_title">Reprint (fingeravtryckslås)</string>
+    <string name="resolution">Upplösning</string>
+    <string name="restore_defaults">Återställ förvalda värden</string>
+    <string name="robolectric_title">Robolectric (testramverk)</string>
+    <string name="root">Rot</string>
+    <string name="rtl_viewpager_title">RtlViewPager (höger-till-vänster-svepning)</string>
+    <string name="save">Spara</string>
+    <string name="save_as">Spara som</string>
+    <string name="save_before_closing">Du har ändringar som inte är sparade. Spara innan du lämnar?</string>
+    <string name="saving">Sparar…</string>
+    <string name="sd_card">SD-kort</string>
+    <string name="search">Sök</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
+    <string name="select_all">Välj alla</string>
+    <string name="select_an_action">Välj en åtgärd</string>
+    <string name="select_destination">Välj mål</string>
+    <string name="select_file">Välj fil</string>
+    <string name="select_folder">Välj mapp</string>
+    <string name="select_storage">Välj lagringsplats</string>
+    <string name="set_as">Ange som</string>
+    <string name="settings">Inställningar</string>
+    <string name="share">Dela</string>
+    <string name="share_colors_success">Färgerna har uppdaterats. Ett nytt Tema som heter \'Delat\' har lagts till, använd det för att uppdatera alla apparnas färger i framtiden.</string>
+    <string name="share_text">Hej, läs om %1$s på %2$s</string>
+    <string name="share_via">Dela via</string>
+    <string name="shared">Delat</string>
+    <string name="show_hidden_items">Show hidden items</string>
+    <string name="show_info_bubble">Show an info bubble at scrolling items by scrollbar dragging</string>
+    <string name="size">Storlek</string>
+    <string name="skip">Hoppa över</string>
+    <string name="small">Liten</string>
+    <string name="solarized">Solariserat</string>
+    <string name="song_title">Song title</string>
+    <string name="sort_by">Sortera efter</string>
+    <string name="source">Källa</string>
+    <string name="source_and_destination_same">Källa och mål kan inte vara samma</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stetho_title">Stetho (avlusning av databaser)</string>
+    <string name="stop_showing_hidden">Sluta visa dolda objekt</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoombara bildvyer)</string>
+    <string name="temporarily_show_hidden">Visa dolda objekt tillfälligt</string>
+    <string name="text_color">Textfärg</string>
+    <string name="theme">Tema</string>
+    <string name="third_party_licences">Tredjepartslicenser</string>
+    <string name="third_party_licences_underlined"><u>Tredjepartslicenser</u></string>
+    <string name="title">Titel</string>
+    <string name="type_2_characters">Type in at least 2 characters to start the search.</string>
+    <string name="undo_changes">Ångra ändringar</string>
+    <string name="undo_changes_confirmation">Är du säker på att du vill ångra dina ändringar?</string>
+    <string name="unhide">Visa</string>
+    <string name="unhide_folder">Visa mapp</string>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_error_occurred">Ett okänt fel har uppstått</string>
+    <string name="use_english_language">Använd engelska</string>
+    <string name="use_for_this_folder">Använd bara för denna mapp</string>
+    <string name="value_copied_to_clipboard">Värdet har kopierats till urklipp</string>
+    <string name="website_label">Du hittar källkoden på</string>
+    <string name="whats_new">Vad är nytt</string>
+    <string name="whats_new_disclaimer">* bara de större uppdateringarna visas här, det görs också alltid några mindre förbättringar</string>
+    <string name="wrong_pattern">Du har ritat fel mönster</string>
+    <string name="wrong_pin">Du har angett fel PIN-kod</string>
+    <string name="wrong_root_selected">Du har valt fel mapp, välj rotmappen på ditt SD-kort</string>
+    <string name="yes">Ja</string>
+</resources>

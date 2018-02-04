@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:2:1-16:12
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:3:5-63
+application
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:6:5-15:19
+receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:7:9-14:20
+	android:exported
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:9:13-36
+	android:name
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:8:13-58
+intent-filter#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:10:13-13:29
+action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:11:17-94
+	android:name
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:11:25-92
+action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:12:17-92
+	android:name
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml:12:25-90
+uses-sdk
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		ADDED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\j_ces\Desktop\Simple-Commons-master\commons\src\main\AndroidManifest.xml
